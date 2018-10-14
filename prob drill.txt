@@ -1,0 +1,4 @@
+﻿1. All probabilities should be 1/16 since the coin is perfectly balanced and each possibility has an equal chance of ½ thus (½)^4=(1/16)
+2. Prob(not Man)= Prob(woman)= 24/45
+3. 0.1*0.00005= 0.000005= 0.0005%
+4. The data is skewed towards people who click more on the page either out of curiosity or longer surfing times.
