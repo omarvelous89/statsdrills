@@ -1,0 +1,12 @@
+﻿Greg was 14, Marcia was 12, Peter was 11, Jan was 10, Bobby was 8, and Cindy was 6 when they started playing the Brady kids on The Brady Bunch. Cousin Oliver was 8 years old when he joined the show. What are the mean, median, and mode of the kids' ages when they first appeared on the show? What are the variance, standard deviation, and standard error?
+Mean = (14+12+11+10+8+6+8)/7= 9.86
+Mode= 8
+Median = 6, 8, 8, 10, 11, 12, 14 = 10
+Variance= (4.14)2+(2.14)2+(1.14)2+(0.14)2+(-1.86)2+(-1.86)2+(-3.86)2 =
+17.1396 + 4.5796+1.2996+0.0196+3.4596+3.4596+14.8996= 44.8572/7 = 6.4082
+Standard Deviation = sqrt(7.4762) = 2.7343
+Standard Error = SD/ sqrt(7) = 2.7343/sqrt(7) = 1.03346
+2. I would use the median of 10. The mean when added to a standard error gives a value higher than the median value of 10 although not by much. The outliers of 14 and 6 are also equidistant from the median. The variance seems to high since it as about the same size as 3 of our data points which makes me trust the mean much less.
+3. My Median and Mode didn’t change with CIndy’s bday. The mean changed and thus Standard deviation and standard error will also change by increasing slightly
+4. I wouldn’t use the mean as a measure of central tendency here. The outlier of 1 year old is too much. I would still use the median value. The Mode is meaningless now since every age appears only once. The median is the best choice
+5. Unsure
